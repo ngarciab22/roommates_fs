@@ -1,0 +1,19 @@
+{
+  "name": "roommatesfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Natalia García",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}
